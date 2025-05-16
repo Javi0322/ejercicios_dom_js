@@ -17,4 +17,6 @@ const albums = [
   "Painkiller",
   "Iron Fist",
 ];
+
+Una vez los completéis todos los podéis enviar a desarrollowebfp@thepower.education con el asunto "Ejercicios DOM JS - Vuestro Nombre".
 */
